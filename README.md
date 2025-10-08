@@ -1,1 +1,1 @@
-# DeiT_Hierarical_Deep_Learning_Approach
+# DeiT_Hierarchical_Deep_Learning_Approach
